@@ -64,17 +64,19 @@ This project is an agent management system built using React. It provides a side
 ### 1. **Initial Screen with Sidebar**  
 This is the initial screen with the sidebar displaying the different options (Select Voice, Settings, Cart, and Other).
 
-![Initial Sidebar](./assets/sidebar.png)
+![Initial Sidebar](home%20page.png)
 
 ### 2. **Agent Details and Test Chat**  
 Once an option is selected from the sidebar, the main content shows the agent details section, including the name, prompt, and test chat feature.
 
-![Agent Details](./assets/agent-details.png)
+![Agent Details](test.png)
 
-### 3. **Test Chat**  
-The test chat feature allows you to send messages and see responses in real-time.
+### 3. **settings page**
 
-![Test Chat](./assets/test-chat.png)
+![settings](settings.png)]
+
+### 4. **cart**
+![cart](cart.png)
 
 ## Usage
 

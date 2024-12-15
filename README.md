@@ -103,8 +103,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any questions or inquiries, feel free to contact me at:
-- Email: your-email@example.com
-- GitHub: [https://github.com/your-username](https://github.com/your-username)
+- Email: sparshsharma1409@gmail.com
+- GitHub: [Mrshelby0](https://github.com/Mrshelby0)
 ```
 
 ### Steps to Add Output Images:
